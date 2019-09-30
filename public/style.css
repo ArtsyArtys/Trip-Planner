@@ -7,3 +7,14 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #C1B5AD;
 }
+
+#map {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+
+.green-marker {
+  flex-wrap: nowrap;
+  background-repeat: no-repeat;
+}
